@@ -1,3 +1,7 @@
 [submodule "lkmpg"]
 	path = lkmpg
 	url = git@github.com:superpozycja/lkmpg.git
+
+[submodule "knr"]
+	path = knr
+	url = git@github.com:superpozycja/knr.git
