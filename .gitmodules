@@ -5,3 +5,6 @@
 [submodule "knr"]
 	path = knr
 	url = git@github.com:superpozycja/knr.git
+[submodule "go"]
+	path = go
+	url = git@github.com:superpozycja/go.git
